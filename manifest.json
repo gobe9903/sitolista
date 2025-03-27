@@ -1,7 +1,7 @@
 {
     "name": "Lista Personalizzabile",
     "short_name": "List",
-    "start_url": "https://gobe9903.github.io/sitolista/",
+    "start_url": "gobe9903.github.io/sitolista/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
